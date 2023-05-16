@@ -1,1 +1,14 @@
 # TELEGRAM-DOWNLOAD-BOT
+
+TELEGRAN DOWNLOAD BOT FULLY WRITEN IN JS WITH AN LIMIT OVER 50MB
+
+HOW TO USE
+1. DOWNLOAD THE BOTS SOURCE CODE
+2. PUT IN YOUR BOTS TOKEN AT LINE 8
+3. RUN THESE COMMANDS
+ npm install node-telegram-bot-api
+ npm install fs
+ npm install https
+ npm install path
+4. START THE BOT WITH node index.js 
+5. SEND /start TO YOUR BOT
